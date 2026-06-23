@@ -13,7 +13,7 @@ streamlit run app.py
 Abre en http://localhost:8501
 
 
-## Qué incluye v
+## Qué incluye
 
 ### Análisis principal
 - Datos reales via yfinance (acciones, ETFs, crypto, divisas, índices)
