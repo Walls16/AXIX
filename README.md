@@ -1,4 +1,4 @@
-# AXIX Ω∞ — Sistema Topofísico Financiero v2
+# AXIX — Sistema Topofísico Financiero v2
 
 Plataforma de análisis topofísico para cualquier activo de Yahoo Finance.
 
@@ -12,13 +12,8 @@ streamlit run app.py
 
 Abre en http://localhost:8501
 
-## Deploy gratuito (Streamlit Cloud)
 
-1. Sube la carpeta a GitHub (puede ser privado)
-2. Ve a https://share.streamlit.io → conecta GitHub → selecciona `app.py`
-3. Deploy → URL pública en ~2 min
-
-## Qué incluye v2
+## Qué incluye v
 
 ### Análisis principal
 - Datos reales via yfinance (acciones, ETFs, crypto, divisas, índices)
@@ -75,4 +70,4 @@ axix_topofisico/
 └── .streamlit/config.toml
 ```
 
-> Modelo experimental · No es asesoría financiera · AXIX Ω∞
+> Modelo experimental · No es asesoría financiera · AXIX 
